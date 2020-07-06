@@ -465,8 +465,8 @@
 /language/en-GB/en-GB.mod_feed.sys.ini
 /language/en-GB/en-GB.mod_finder.ini
 /language/en-GB/en-GB.mod_finder.sys.ini
-/language/en-GB/en-GB.mod_footer.ini
-/language/en-GB/en-GB.mod_footer.sys.ini
+/language/en-GB/en-GB.mod_j_hatenater.ini
+/language/en-GB/en-GB.mod_j_hatenater.sys.ini
 /language/en-GB/en-GB.mod_languages.ini
 /language/en-GB/en-GB.mod_languages.sys.ini
 /language/en-GB/en-GB.mod_login.ini
@@ -571,7 +571,7 @@
 /modules/mod_custom/*
 /modules/mod_feed/*
 /modules/mod_finder/*
-/modules/mod_footer/*
+/modules/mod_j_hatenater/*
 /modules/mod_languages/*
 /modules/mod_login/*
 /modules/mod_menu/*

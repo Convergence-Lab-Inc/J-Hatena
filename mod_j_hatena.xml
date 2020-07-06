@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.1.0" client="site" method="upgrade">
+    <name>J-Haterna</name>
+    <author>Masashi Kimura</author>
+    <version>0.0.0</version>
+    <description>A simple Hatena Bookmark Module.</description>
+    <files>
+        <filename>mod_j_hatena.xml</filename>
+        <filename module="mod_j_hatena">mod_j_hatena.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+    </files>
+    <config>
+    </config>
+</extension>
